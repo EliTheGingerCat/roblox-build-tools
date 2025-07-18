@@ -31,11 +31,17 @@ Right now, there is no way to easily download this repository so that one can wo
 ### That is circular logic
 
 Making it easy for people to contribute is hard
+
 --> Do not make it easy to contribute
+
 --> Contributing is hard
+
 --> People do not want to contribute
+
 --> Nobody contributes
+
 --> There is no point spending effort to make it easy to contribute
+
 --> Do not make it easy to contribute
 
 Okay, fair enough.

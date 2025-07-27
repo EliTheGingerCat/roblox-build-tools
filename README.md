@@ -3,7 +3,9 @@
 ## Terminology
 
 Lune: https://lune-org.github.io/
+
 Game repository: Any of my repositories that contains the code for one of my Roblox games.
+
 However*2: "however" multiplied by 2. A double "however". Similar to a double negative, the second "however" counteracts the first "however", making the initial argument valid again.
 
 ## Only For Me

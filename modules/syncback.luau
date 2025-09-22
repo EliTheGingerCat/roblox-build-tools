@@ -1,7 +1,7 @@
 local exec = require("./exec")
 
-local function syncback(syncback_file: string, build_name: string): ()
-	exec("rojo", {"syncback", syncback_file, "--input", `./{build_name}.rbxl`}, {
+local function syncback(build_name: string, syncback_file: string?): ()
+	exec("rojo", {"syncback", syncback_file or "", "--input", `./{build_name}.rbxl`}, {
 		stdio = {
 			stdin = "y"
 		}
